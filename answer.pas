@@ -35,7 +35,7 @@ begin
 
   writeln('==> Câu 1: Tổng các phần tử trong dãy số: s1 = ', s1);
 
-  writeln('==> Câu 1: Tổng các phần tử chẵn trong dãy số: s2 = ', s2);
+  writeln('==> Câu 2: Tổng các phần tử chẵn trong dãy số: s2 = ', s2);
 
   write('==> Câu 3: Các phân tử âm trong dãy số: ');
   for x in day_so do if x < 0 then write(x, ' ');
