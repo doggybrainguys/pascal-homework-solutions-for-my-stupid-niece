@@ -4,7 +4,7 @@ program baitap1;
   var s, x: integer;
 begin
   { nhập dãy số }
-  write('n = ');
+  write('số lượng phần tử');
   read(n);
   writeln('nhập dãy số: ');
   for i := 1 to n do begin

@@ -8,7 +8,7 @@ begin
   clrscr;
 
   { nhập mảng }
-  write('số lượng số trong dãy số: ');
+  write('số lượng phần tử trong dãy số: ');
   read(n);
   writeln('các phần tử trong dãy số:');
   for i := 1 to n do begin
