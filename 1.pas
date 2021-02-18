@@ -1,4 +1,4 @@
-program q1;
+program baitap1;
   var dayso: array [1..200] of integer;
   var n, i: 1..200;
   var s, x: integer;
